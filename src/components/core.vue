@@ -14,7 +14,7 @@
         <span data-fancybox-count>{{group.length}}</span>
       </div>
       <div class="fancybox-toolbar">
-        <component v-for="(v,k) in current.opts.buttons" :key="k" :is="v"></component>
+        <component v-for="(v,k) in current.opts.buttons" :key="k" :is="v" :item="current"></component>
       </div>
       <div class="fancybox-navigation">
         <arrowLeft/>
