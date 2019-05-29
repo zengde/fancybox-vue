@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lang-zh_CN"],{"752b":function(n){n.exports={CLOSE:"关闭",NEXT:"下一个",PREV:"上一个",ERROR:"无法加载请求内容. <br/> 请稍后重试.",PLAY_START:"开始播放",PLAY_STOP:"暂停播放",FULL_SCREEN:"全屏",THUMBS:"缩略图",DOWNLOAD:"下载",SHARE:"分享",ZOOM:"缩放"}}}]);
+//# sourceMappingURL=lang-zh_CN.284552d4.js.map
