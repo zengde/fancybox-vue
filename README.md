@@ -1,5 +1,7 @@
 # fancybox-vue
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zengde/fancybox-vue.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 npm install
